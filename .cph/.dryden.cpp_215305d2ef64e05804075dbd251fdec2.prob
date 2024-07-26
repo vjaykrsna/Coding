@@ -1,0 +1,1 @@
+{"name":"Local: dryden","url":"d:\\Coding\\dryden.cpp","tests":[{"id":1720336383860,"input":"3\n1\n3\n1\n2\n10","output":"9"},{"id":1720341223302,"input":"8\n3\n4\n100\n4\n1\n6\n2\n4\n5\n1000","output":"1097"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\dryden.cpp","group":"local","local":true}
